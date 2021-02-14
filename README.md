@@ -16,7 +16,6 @@
     Hi there 
     <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h2>
-<hr>
 
 My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python developer who started working with data mining in 2013, when I became a master in Computational Modeling at UERJ. I am currently a PhD student at UFRJ in the area of Complex Network Management, working to identify misinformation in social networks.
 
@@ -44,7 +43,6 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 </ul>
 
 <br>
-<hr>
 <h2>Some technologies that I work with 🖥️</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/linux-orange.svg?&style=flat-square&logo=linux&logoColor=white"/>
@@ -75,7 +73,6 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 
 
 <br><br>
-<hr>
 <h2>More about me 🤓</h2>
 <ul>
     <li>
