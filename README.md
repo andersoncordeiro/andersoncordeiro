@@ -24,12 +24,7 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 
 <h2>My academic articles 📚</h2>
 <ul>
-    <li>
-        <b>Do you like mobile apps?</b> Take a look at my Flutter book called <a href="https://www.casadocodigo.com.br/products/livro-flutter" target="_blank">Iniciando com Flutter Framework</a> <br>(Starting with Flutter framework) published by publisher <a href="https://www.casadocodigo.com.br/" target="_blank">Casa do código</a>.
-    </li>
-    <br>
-    <li>
-        <b>Do you like recommendation systems?</b> Take a look at the chapter I wrote for the book called <a href="https://www.researchgate.net/publication/340068617_Conceitos_Implementacao_e_Dados_Privados_de_Algoritmos_de_Recomendacao" target="_blank">Conceitos, Implementação e Dados Privados de Algoritmos de Recomendação</a> (Concepts, Implementation and Private Data of Recommendation Algorithms) published by VI Escola Regional de Sistemas de Informação.
+    <li>    
     </li>
 </ul>
 
@@ -38,32 +33,19 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 <h2>My Courses 📚</h2>
 <ul>
     <li>
-        <b>Do you like mobile apps?</b> Take a look at my Flutter book called <a href="https://www.casadocodigo.com.br/products/livro-flutter" target="_blank">Iniciando com Flutter Framework</a> <br>(Starting with Flutter framework) published by publisher <a href="https://www.casadocodigo.com.br/" target="_blank">Casa do código</a>.
-    </li>
-    <br>
-    <li>
-        <b>Do you like recommendation systems?</b> Take a look at the chapter I wrote for the book called <a href="https://www.researchgate.net/publication/340068617_Conceitos_Implementacao_e_Dados_Privados_de_Algoritmos_de_Recomendacao" target="_blank">Conceitos, Implementação e Dados Privados de Algoritmos de Recomendação</a> (Concepts, Implementation and Private Data of Recommendation Algorithms) published by VI Escola Regional de Sistemas de Informação.
-    </li>
-</ul>
-
-<h2>My publications 📚</h2>
-<hr>
-
-<ul>
-    <li>
-        <b>Do you like mobile apps?</b> Take a look at my Flutter book called <a href="https://www.casadocodigo.com.br/products/livro-flutter" target="_blank">Iniciando com Flutter Framework</a> <br>(Starting with Flutter framework) published by publisher <a href="https://www.casadocodigo.com.br/" target="_blank">Casa do código</a>.
-    </li>
-    <br>
-    <li>
-        <b>Do you like recommendation systems?</b> Take a look at the chapter I wrote for the book called <a href="https://www.researchgate.net/publication/340068617_Conceitos_Implementacao_e_Dados_Privados_de_Algoritmos_de_Recomendacao" target="_blank">Conceitos, Implementação e Dados Privados de Algoritmos de Recomendação</a> (Concepts, Implementation and Private Data of Recommendation Algorithms) published by VI Escola Regional de Sistemas de Informação.
     </li>
 </ul>
 
 <br>
+<h2>My publications 📚</h2>
+<ul>
+    <li>
+    </li>
+</ul>
 
-<h2>Some technologies that I work with 🖥️</h2>
+<br>
 <hr>
-
+<h2>Some technologies that I work with 🖥️</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/linux-orange.svg?&style=flat-square&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
@@ -73,7 +55,6 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb">
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
 <img src ="https://img.shields.io/badge/mysql-%23316192.svg?&style=flat-square&logo=mysql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git">
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github">
@@ -92,44 +73,33 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 <img src="https://img.shields.io/badge/slack-red.svg?&style=flat-square&logo=slack&logoColor=white"/>
 </p>
 
-<br>
-<h2>More about me 🤓</h2>
+
+<br><br>
 <hr>
-
-<img src="./images/baby-yoda.gif" width="40">
-StarWars fan;
-
-<img src="./images/coffee.png" width="50">
-Coffee lover;
-
-<img src="./images/nerd.png" width="50">
-Education enthusiast;
-
-<img src="./images/peralta.jpg" width="50">
-Yes, I watch brooklyn 99!
+<h2>More about me 🤓</h2>
+<ul>
+    <li>
+    </li>
+</ul>
 
 <br>
-
 <h2>Contact me! 💬</h2>
-<a href="https://www.linkedin.com/in/leomhl"  target="_blank">
-    <img src="./images/linkedin.png" width="15">
-    LinkedIn
-</a> 
+<ul>
+    <li>
+        <a href="https://www.linkedin.com/in/anderson-cordeiro-26986430/"  target="_blank">
+            <img src="./images/linkedin.png" width="15">
+            LinkedIn
+        </a>
+    </li>
+    <li>
+        <a href="mailto:andersoncordeironf@gmail.com"  target="_blank">
+            <img src="./images/email.png" width="15">
+            andersoncordeironf [at] gmail [dot] com
+        </a>
+    </li>
+</ul>
 <br>
-<a href="https://pt.slideshare.net/leomhl/presentations"  target="_blank">
-    <img src="./images/slideshare.png" width="15"></img>
-    SlideShare
-</a>
-<br>
-<a href="http://leomarinho.com.br/"  target="_blank">
-    <img src="./images/site.png" width="15"></img>
-    Site
-</a>
-<br>
-<a href="mailto:leonardo.marinho@alura.com.br"  target="_blank">
-    <img src="./images/email.png" width="15"></img>
-    leonardo.marinho@alura.com.br
-</a>
+
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=andersoncordeiro&color=blue&style=flat)
