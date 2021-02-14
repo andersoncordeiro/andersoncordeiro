@@ -23,8 +23,6 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 <br>
 
 <h2>My academic articles 📚</h2>
-<hr>
-
 <ul>
     <li>
         <b>Do you like mobile apps?</b> Take a look at my Flutter book called <a href="https://www.casadocodigo.com.br/products/livro-flutter" target="_blank">Iniciando com Flutter Framework</a> <br>(Starting with Flutter framework) published by publisher <a href="https://www.casadocodigo.com.br/" target="_blank">Casa do código</a>.
@@ -35,9 +33,9 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
     </li>
 </ul>
 
-<h2>My Courses 📚</h2>
-<hr>
 
+<br>
+<h2>My Courses 📚</h2>
 <ul>
     <li>
         <b>Do you like mobile apps?</b> Take a look at my Flutter book called <a href="https://www.casadocodigo.com.br/products/livro-flutter" target="_blank">Iniciando com Flutter Framework</a> <br>(Starting with Flutter framework) published by publisher <a href="https://www.casadocodigo.com.br/" target="_blank">Casa do código</a>.
