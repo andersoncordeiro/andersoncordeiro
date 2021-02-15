@@ -88,47 +88,30 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 
 
 <br><br>
+<h2>Contact me! 💬</h2>
+<a href="https://www.linkedin.com/in/anderson-cordeiro-26986430/"  target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:andersoncordeironf@gmail.com"  target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="#"  target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
+</a>
+<a href="#"  target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
+</a>
+<a href="#"  target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>       
+<br>
+
 <h2>More about me 🤓</h2>
 
 
-<img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<ul>
-    <li>
-        <img alt="PlayStation Network" src="https://img.shields.io/badge/PSN%20-%230070D1.svg?&style=for-the-badge&logo=Playstation&logoColor=white"/>
-    </li>
-</ul>
-
-<br>
-<h2>Contact me! 💬</h2>
-<ul>
-    <li>
-        <a href="https://www.linkedin.com/in/anderson-cordeiro-26986430/"  target="_blank">
-            <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-        </a>
-    </li>
-    <li>
-        <a href="mailto:andersoncordeironf@gmail.com"  target="_blank">
-            <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-    </li>
-    <li>
-        <a href="#"  target="_blank">
-            <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
-        </a>
-    </li>
-    <li>
-        <a href="#"  target="_blank">
-            <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
-        </a>
-    </li>
-    <li>
-        <a href="#"  target="_blank">
-            <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-        </a>
-    </li>
-</ul>
-<br>
+<p><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" /> I play drums and I'm an AC/DC fan</p>
+<p><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> I've been using Linux since 1998</p>
+<p><img alt="PlayStation Network" src="https://img.shields.io/badge/PSN%20-%230070D1.svg?&style=for-the-badge&logo=Playstation&logoColor=white"/> I'm a Pro Evolution Soccer player</p>
 
 <br><br>
 
