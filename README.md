@@ -21,10 +21,39 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 
 <br>
 
-<h2>My academic articles 🏆</h2>
+<h2>My academic articles (not all) 🏆</h2>
 <ul>
-    <li>    
+    <li>
+    <a href="https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2318-03312017000100253" target="_blank">
+       Comparação de modelos de mineração de dados aplicados a uma estação meteorológica de superfície
+    </a>
     </li>
+    <li>
+    <a href="https://sol.sbc.org.br/index.php/waihcws/article/view/12342" target="_blank">
+           FakeSpread: Um framework para análise de propagação de fake news na Web
+    </a>
+    </li>
+     <li>
+    <a href="https://dl.acm.org/doi/10.1145/3323503.3360648" target="_blank">
+           Data mining applied in fake news classification through textual patterns
+    </a>
+    </li>
+    <li>
+    <a href="https://www.researchgate.net/publication/328289485_Checking_fake_news_on_web_browsers_an_approach_using_collaborative_datasets" target="_blank">
+       Checking fake news on web browsers: an approach using collaborative datasets
+    </a>
+    </li>
+     <li>
+    <a href="https://sol.sbc.org.br/index.php/brasnam/article/view/3596/3555" target="_blank">
+       Identificação de fake news: uma abordagem utilizando métodos de busca e chatbots
+    </a>
+    </li>
+     <li>
+    <a href="https://pantheon.ufrj.br/handle/11422/9475" target="_blank">
+        Mineração De Dados Aplicada À Identificação De Notícias Falsas
+    </a>
+    </li>
+
 </ul>
 
 <br>
