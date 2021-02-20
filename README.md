@@ -95,10 +95,10 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 <a href="mailto:andersoncordeironf@gmail.com"  target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="#"  target="_blank">
+<a href="https://medium.com/@andcordeiro"  target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
-<a href="#"  target="_blank">
+<a href="https://www.facebook.com/andcordeiro86"  target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
 <a href="#"  target="_blank">
