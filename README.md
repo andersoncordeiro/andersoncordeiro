@@ -27,18 +27,33 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
     </li>
 </ul>
 
-
 <br>
-<h2>My Courses 🎧</h2>
+<h2>My Talks (not all) 📊</h2>
 <ul>
     <li>
+    <a href="https://drive.google.com/file/d/1g9pL0pQt8n2VikRjBZU9FHq7rVA_8lHI/view?usp=sharing" target="_blank">
+        Hackeando Dados Públicos: crawlers e portais da transparência
+    </a>
     </li>
-</ul>
-
-<br>
-<h2>My presentations 📊</h2>
-<ul>
     <li>
+    <a href="https://drive.google.com/file/d/1HFDe0CO8TObeL0pio-iqNvVme0pvOXVN/view?usp=sharing" target="_blank">
+        Fakepedia: uma plataforma de fact-checking colaborativa
+    </a>
+    </li>
+    <li>
+    <a href="https://drive.google.com/file/d/1qjX_G-U3S5_vPtbraNSw2EM_hqgvHNqf/view?usp=sharing"  target="_blank">
+        Python: do "olá mundo" ao "como vai você" (minicurso de análise de sentimentos)
+    </a>
+    </li>
+    <li>
+    <a href="https://drive.google.com/file/d/1IlIh2oOrd1VeS06DkDhy805OccMuK9JY/view?usp=sharing"  target="_blank">
+        Getúlio, um chatbot [Utilizando BRI e NLP]
+    </a>
+    </li>
+    <li>
+    <a href="https://drive.google.com/file/d/113c_ZZObwilFwQzY0FqugGMdU0yBhu_e/view?usp=sharing"  target="_blank">
+        Nossa Democracia Foi Hackeada (bots e democracia)
+    </a>
     </li>
 </ul>
 
