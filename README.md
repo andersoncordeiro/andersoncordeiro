@@ -21,7 +21,7 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 
 <br>
 
-<h2>My academic articles 📚</h2>
+<h2>My academic articles 🏆</h2>
 <ul>
     <li>    
     </li>
@@ -29,14 +29,14 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 
 
 <br>
-<h2>My Courses 📚</h2>
+<h2>My Courses 🎧</h2>
 <ul>
     <li>
     </li>
 </ul>
 
 <br>
-<h2>My publications 📚</h2>
+<h2>My presentations 📊</h2>
 <ul>
     <li>
     </li>
