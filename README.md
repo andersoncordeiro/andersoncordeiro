@@ -24,32 +24,32 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 <h2>My academic articles (not all) 🏆</h2>
 <ul>
     <li>
-    <a href="https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2318-03312017000100253" target="_blank">
+    <a href="https://www.scielo.br/scielo.php?script=sci_arttext&pid=S2318-03312017000100253" >
        Comparação de modelos de mineração de dados aplicados a uma estação meteorológica de superfície
     </a>
     </li>
     <li>
-    <a href="https://sol.sbc.org.br/index.php/waihcws/article/view/12342" target="_blank">
+    <a href="https://sol.sbc.org.br/index.php/waihcws/article/view/12342" >
            FakeSpread: Um framework para análise de propagação de fake news na Web
     </a>
     </li>
      <li>
-    <a href="https://dl.acm.org/doi/10.1145/3323503.3360648" target="_blank">
+    <a href="https://dl.acm.org/doi/10.1145/3323503.3360648" >
            Data mining applied in fake news classification through textual patterns
     </a>
     </li>
     <li>
-    <a href="https://www.researchgate.net/publication/328289485_Checking_fake_news_on_web_browsers_an_approach_using_collaborative_datasets" target="_blank">
+    <a href="https://www.researchgate.net/publication/328289485_Checking_fake_news_on_web_browsers_an_approach_using_collaborative_datasets" >
        Checking fake news on web browsers: an approach using collaborative datasets
     </a>
     </li>
      <li>
-    <a href="https://sol.sbc.org.br/index.php/brasnam/article/view/3596/3555" target="_blank">
+    <a href="https://sol.sbc.org.br/index.php/brasnam/article/view/3596/3555" >
        Identificação de fake news: uma abordagem utilizando métodos de busca e chatbots
     </a>
     </li>
      <li>
-    <a href="https://pantheon.ufrj.br/handle/11422/9475" target="_blank">
+    <a href="https://pantheon.ufrj.br/handle/11422/9475" >
         Mineração De Dados Aplicada À Identificação De Notícias Falsas
     </a>
     </li>
@@ -60,27 +60,27 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 <h2>My Talks (not all) 📊</h2>
 <ul>
     <li>
-    <a href="https://drive.google.com/file/d/1g9pL0pQt8n2VikRjBZU9FHq7rVA_8lHI/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1g9pL0pQt8n2VikRjBZU9FHq7rVA_8lHI/view?usp=sharing" >
         Hackeando Dados Públicos: crawlers e portais da transparência
     </a>
     </li>
     <li>
-    <a href="https://drive.google.com/file/d/1HFDe0CO8TObeL0pio-iqNvVme0pvOXVN/view?usp=sharing" target="_blank">
+    <a href="https://drive.google.com/file/d/1HFDe0CO8TObeL0pio-iqNvVme0pvOXVN/view?usp=sharing" >
         Fakepedia: uma plataforma de fact-checking colaborativa
     </a>
     </li>
     <li>
-    <a href="https://drive.google.com/file/d/1qjX_G-U3S5_vPtbraNSw2EM_hqgvHNqf/view?usp=sharing"  target="_blank">
+    <a href="https://drive.google.com/file/d/1qjX_G-U3S5_vPtbraNSw2EM_hqgvHNqf/view?usp=sharing"  >
         Python: do "olá mundo" ao "como vai você" (minicurso de análise de sentimentos)
     </a>
     </li>
     <li>
-    <a href="https://drive.google.com/file/d/1IlIh2oOrd1VeS06DkDhy805OccMuK9JY/view?usp=sharing"  target="_blank">
+    <a href="https://drive.google.com/file/d/1IlIh2oOrd1VeS06DkDhy805OccMuK9JY/view?usp=sharing"  >
         Getúlio, um chatbot [Utilizando BRI e NLP]
     </a>
     </li>
     <li>
-    <a href="https://drive.google.com/file/d/113c_ZZObwilFwQzY0FqugGMdU0yBhu_e/view?usp=sharing"  target="_blank">
+    <a href="https://drive.google.com/file/d/113c_ZZObwilFwQzY0FqugGMdU0yBhu_e/view?usp=sharing"  >
         Nossa Democracia Foi Hackeada (bots e democracia)
     </a>
     </li>
@@ -133,18 +133,19 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 
 <br><br>
 <h2>Contact me! 💬</h2>
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/andercordeiro/){:target="_blank"}
-
-<a href="mailto:andersoncordeironf@gmail.com"  target="_blank">
+<a href="https://www.linkedin.com/in/andercordeiro"  >
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:andersoncordeironf@gmail.com"  >
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://medium.com/@andcordeiro"  target="_blank">
+<a href="https://medium.com/@andcordeiro"  >
     <img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
 </a>
-<a href="https://www.facebook.com/andcordeiro86"  target="_blank">
+<a href="https://www.facebook.com/andcordeiro86"  >
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
-<a href="#"  target="_blank">
+<a href="#"  >
     <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>       
 <br>
