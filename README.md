@@ -59,6 +59,11 @@ My name is <b>Anderson Cordeiro</b> and I'm a systems analyst and python develop
 <br>
 <h2>My Talks (not all) 📊</h2>
 <ul>
+<li>
+    <a href="https://github.com/andersoncordeiro/contos-rnn/blob/main/EraUmaVez.pdf" >
+        TDC 2021 - Era uma vez pra sempre: utilizando redes neurais recorrentes para gerar contos infantis infinitos
+    </a>
+    </li>
     <li>
     <a href="https://drive.google.com/file/d/1g9pL0pQt8n2VikRjBZU9FHq7rVA_8lHI/view?usp=sharing" >
         Hackeando Dados Públicos: crawlers e portais da transparência
